@@ -1,0 +1,5 @@
+Cada aula é acompanhada de um laboratório. Os laboratórios podem conter até três seções diferentes:
+
+1. Revisão: exercícios feitos em sala de aula para demonstrar pontos importantes sobre os assuntos vistos
+2. Fixação: exercícios com respostas para fixar os assuntos da aula
+3. Aprendizagem: exercícios sem respostas para verificar o aprendizado
