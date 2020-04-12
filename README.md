@@ -2,7 +2,7 @@
 
 Este repositório contém o material utilizado no curso de Programação de Computadores ministrado para os alunos do curso de Ciência da Computação na Universidade Federal Rural do Semi-Árido (UFERSA).
 
-O material é composto por Slides em formato PowerPoint e Laboratórios em formato PDF. Cada laboratório é acompanhado por um material de apoio, que é utilizado durante a aula teórica, e das respostas aos exercícios de fixação. Os exercícios de revisão são feitos em sala de aula. Os exercícios de aprendizagem não possuem repostas. O código é desenvolvido em C++ usando o Visual Studio 2019.
+O material é composto por Slides em formato PowerPoint e Laboratórios em formato PDF. Cada laboratório é acompanhado por um material de apoio, que é utilizado durante a aula teórica, e das respostas aos exercícios de fixação. Os exercícios de revisão são feitos em sala de aula. Os exercícios de aprendizagem não possuem respostas. O código é desenvolvido em C++ usando o Visual Studio 2019.
 
 A numeração dos laboratórios (Labs) coincidem com a sequência das aulas (Slides): 
 
