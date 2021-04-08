@@ -1,4 +1,4 @@
-// converte metros em centímetros
+// converte.cpp - converte metros em centímetros
 #include <iostream>
 using namespace std;
 

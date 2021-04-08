@@ -1,3 +1,4 @@
+// localglobal.cpp - variáveis locais e globais
 #include <iostream>
 using namespace std;
 
