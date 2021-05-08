@@ -1,4 +1,4 @@
-// Usando registros com funções
+// passando registros por valor
 #include <iostream>
 using namespace std;
 

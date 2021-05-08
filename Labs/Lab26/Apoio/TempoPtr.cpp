@@ -1,4 +1,4 @@
-// Usando registros com funções
+// passando registros com ponteiros
 #include <iostream>
 using namespace std;
 

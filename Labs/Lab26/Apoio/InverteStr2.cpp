@@ -1,4 +1,4 @@
-// invstr.cpp -- método errado de retornar uma string
+// método com alocação dinâmica
 #include <iostream>
 using namespace std;
 
@@ -10,17 +10,19 @@ int main()
 	cout << "Digite seu nome: ";
 	cin >> nome;
 
+	char * pstr = InverteString(nome);
 	cout << "Seu nome invertido: ";
-	cout << InverteString(nome) << endl;
+	cout << pstr << endl;
+	delete[] pstr;
 
 	return 0;
 }
 
 char * InverteString(const char * str)
 {
-	char invertida[40];
 	const int Tam = strlen(str);
-	
+	char* invertida = new char[Tam+1];
+		
 	for (int i = 0; i < Tam; i++)
 		invertida[i] = str[Tam - 1 - i];
 
@@ -28,5 +30,3 @@ char * InverteString(const char * str)
 
 	return invertida;
 }
-
-

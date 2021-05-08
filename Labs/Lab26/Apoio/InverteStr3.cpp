@@ -1,4 +1,4 @@
-// invstr.cpp -- método errado de retornar uma string
+// método com parâmetro adicional
 #include <iostream>
 using namespace std;
 
