@@ -1,11 +1,13 @@
 #include <iostream>
 #include <cctype>
 using namespace std;
+
 int main()
 {
 	cout << "Entre com o texto para analise (@ para sair):\n";
 	int brancos = 0, digitos = 0, chars = 0, pont = 0, outros = 0;
 	char ch;
+
 	cin.get(ch);       // lê o primeiro caractere
 	while (ch != '@')  // testa o caractere sentinela
 	{

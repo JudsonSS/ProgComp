@@ -1,8 +1,10 @@
 #include <iostream>
 using namespace std;
+
 void mostramenu();
 void relatorio();
 void bajular();
+
 int main()
 {
 	mostramenu();

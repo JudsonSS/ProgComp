@@ -8,8 +8,8 @@ int main()
 	cin >> a >> b;
 
 	cout << "O maior entre " << a << " e " << b;
-	int c = a > b ? a : b;
-	cout << " = " << c << endl;
+	int maior = a > b ? a : b;
+	cout << " = " << maior << endl;
 
 	return 0;
 }
