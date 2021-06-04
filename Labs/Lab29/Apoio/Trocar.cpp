@@ -3,7 +3,7 @@ using std::cout;
 using std::endl;
 
 template <typename T>
-void swap(T & a, T & b);
+void trocar(T & a, T & b);
 
 int main()
 {
@@ -16,8 +16,8 @@ int main()
 	cout << "i, j = " << i << ", " << j << endl;
 	cout << "x, y = " << x << ", " << y << endl << endl;
 
-	swap(i, j);
-	swap(x, y);
+	trocar(i, j);
+	trocar(x, y);
 	
 	cout << "valores trocados:" << endl;
 	cout << "i, j = " << i << ", " << j << endl;
@@ -28,7 +28,7 @@ int main()
 }
 
 template <typename T>
-void swap(T & a, T & b)
+void trocar(T & a, T & b)
 {
 	T temp;
 	temp = a;
