@@ -37,4 +37,4 @@ A numeração dos laboratórios (Labs) coincidem com a sequência das aulas (Sli
 28. Armazenamento e Referências
 29. Templates e Sobrecarga de Funções
 
-O material da disciplina está em constante evolução. Se tiverem sujestões de melhoria fiquem a vontade para contribuir com o projeto.
+O material da disciplina está em constante evolução. Se tiverem sugestões de melhoria fiquem a vontade para contribuir com o projeto.
