@@ -25,7 +25,7 @@ int main()
 
 	while (fin >> token && !encontrada)
 	{
-		if (strcmp(token, palavra))
+		if (!strcmp(token, palavra))
 			encontrada = true;
 	}
 	fin.close();
