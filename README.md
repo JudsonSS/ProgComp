@@ -36,5 +36,6 @@ A numeração dos laboratórios (Labs) coincidem com a sequência das aulas (Sli
 27. Funções Inline e Ponteiros para Funções
 28. Armazenamento e Referências
 29. Templates e Sobrecarga de Funções
+30. Especialização de Templates
 
 O material da disciplina está em constante evolução. Se tiverem sugestões de melhoria fiquem a vontade para contribuir com o projeto.
